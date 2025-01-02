@@ -1,5 +1,6 @@
 # University Registration System
 
+
 ## Description
 This project is a University Registration System built using Java with a Swing GUI, integrated with a MySQL database via XAMPP for backend storage. The application allows admins to register, view students’ lists, and manipulate those records. The higher admins can register admins, view admins’ lists, and manipulate those records. The students can view their profiles, update their information, and change passwords.
 
@@ -71,7 +72,5 @@ Maven (for dependency management)
 ## Additional Notes
 Ensure that the XAMPP server is running and the MySQL service is active before starting the application.
 Adjust the database connection settings in your Java code as necessary, depending on your XAMPP setup.
-
-
 
 
